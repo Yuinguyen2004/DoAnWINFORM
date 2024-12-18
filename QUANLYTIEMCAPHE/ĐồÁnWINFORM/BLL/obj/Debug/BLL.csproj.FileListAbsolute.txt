@@ -1,0 +1,16 @@
+D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\BLL\bin\Debug\App.Config
+D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\BLL\bin\Debug\BLL.dll.config
+D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\BLL\bin\Debug\BLL.dll
+D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\BLL\bin\Debug\BLL.pdb
+D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\BLL\bin\Debug\DAL.dll
+D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\BLL\bin\Debug\EntityFramework.dll
+D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\BLL\bin\Debug\DAL.pdb
+D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\BLL\bin\Debug\DAL.dll.config
+D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\BLL\bin\Debug\EntityFramework.xml
+D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\BLL\obj\Debug\BLL.dll
+D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\BLL\obj\Debug\BLL.pdb

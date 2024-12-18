@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F36339DA-B43C-4BB3-B57A-48DCFFC3E346}|BLL\\BLL.csproj|d:\\project_winform\\quanlytiemcaphe\\\u0111\u1ED3\u00E1nwinform\\bll\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F36339DA-B43C-4BB3-B57A-48DCFFC3E346}|BLL\\BLL.csproj|solutionrelative:bll\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF94E4-89AE-4F68-B5E7-C8DDEA6A5B2D}|GUI\\GUI.csproj|d:\\project_winform\\quanlytiemcaphe\\\u0111\u1ED3\u00E1nwinform\\gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7CBF94E4-89AE-4F68-B5E7-C8DDEA6A5B2D}|GUI\\GUI.csproj|solutionrelative:gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74153B16-B078-46D8-84C8-8B8DD21DB713}|DAL\\DAL.csproj|d:\\project_winform\\quanlytiemcaphe\\\u0111\u1ED3\u00E1nwinform\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{74153B16-B078-46D8-84C8-8B8DD21DB713}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF94E4-89AE-4F68-B5E7-C8DDEA6A5B2D}|GUI\\GUI.csproj|d:\\project_winform\\quanlytiemcaphe\\\u0111\u1ED3\u00E1nwinform\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBF94E4-89AE-4F68-B5E7-C8DDEA6A5B2D}|GUI\\GUI.csproj|solutionrelative:gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF94E4-89AE-4F68-B5E7-C8DDEA6A5B2D}|GUI\\GUI.csproj|D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CBF94E4-89AE-4F68-B5E7-C8DDEA6A5B2D}|GUI\\GUI.csproj|solutionrelative:gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36339DA-B43C-4BB3-B57A-48DCFFC3E346}|BLL\\BLL.csproj|D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36339DA-B43C-4BB3-B57A-48DCFFC3E346}|BLL\\BLL.csproj|solutionrelative:bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74153B16-B078-46D8-84C8-8B8DD21DB713}|DAL\\DAL.csproj|D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74153B16-B078-46D8-84C8-8B8DD21DB713}|DAL\\DAL.csproj|solutionrelative:dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74153B16-B078-46D8-84C8-8B8DD21DB713}|DAL\\DAL.csproj|d:\\project_winform\\quanlytiemcaphe\\\u0111\u1ED3\u00E1nwinform\\dal\\model\\cafe_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74153B16-B078-46D8-84C8-8B8DD21DB713}|DAL\\DAL.csproj|solutionrelative:dal\\model\\cafe_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\BLL\\App.config",
+              "RelativeDocumentMoniker": "BLL\\App.config",
+              "ToolTip": "D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\BLL\\App.config",
+              "RelativeToolTip": "BLL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-18T11:27:47.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.Config",
+              "DocumentMoniker": "D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\GUI\\App.Config",
+              "RelativeDocumentMoniker": "GUI\\App.Config",
+              "ToolTip": "D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\GUI\\App.Config",
+              "RelativeToolTip": "GUI\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-18T11:27:27.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\GUI\\DangNhap.cs",
+              "RelativeDocumentMoniker": "GUI\\DangNhap.cs",
+              "ToolTip": "D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\GUI\\DangNhap.cs",
+              "RelativeToolTip": "GUI\\DangNhap.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAApwOAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:26:04.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.Config",
+              "DocumentMoniker": "D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\DAL\\App.Config",
+              "RelativeDocumentMoniker": "DAL\\App.Config",
+              "ToolTip": "D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\DAL\\App.Config",
+              "RelativeToolTip": "DAL\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-18T11:23:31.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cafe_Management.cs",
+              "DocumentMoniker": "D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\DAL\\Model\\Cafe_Management.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\Cafe_Management.cs",
+              "ToolTip": "D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\DAL\\Model\\Cafe_Management.cs",
+              "RelativeToolTip": "DAL\\Model\\Cafe_Management.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:22:59.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\GUI\\DangNhap.cs",
+              "RelativeDocumentMoniker": "GUI\\DangNhap.cs",
+              "ToolTip": "D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\GUI\\DangNhap.cs [Design]",
+              "RelativeToolTip": "GUI\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:22:36.245Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserBLL.cs",
+              "DocumentMoniker": "D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\BLL\\UserBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\UserBLL.cs",
+              "ToolTip": "D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\BLL\\UserBLL.cs",
+              "RelativeToolTip": "BLL\\UserBLL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:51:24.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\DAL\\UserDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\UserDAL.cs",
+              "ToolTip": "D:\\Project_WinForm\\QUANLYTIEMCAPHE\\\u0110\u1ED3\u00C1nWINFORM\\DAL\\UserDAL.cs",
+              "RelativeToolTip": "DAL\\UserDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:47:40.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
