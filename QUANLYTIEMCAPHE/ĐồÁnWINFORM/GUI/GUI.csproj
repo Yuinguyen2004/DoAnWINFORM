@@ -56,10 +56,19 @@
     <Compile Include="DangNhap.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="TableGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TableGUI.Designer.cs">
+      <DependentUpon>TableGUI.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="DangNhap.resx">
       <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TableGUI.resx">
+      <DependentUpon>TableGUI.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -86,6 +95,10 @@
     <ProjectReference Include="..\BLL\BLL.csproj">
       <Project>{f36339da-b43c-4bb3-b57a-48dcffc3e346}</Project>
       <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{74153b16-b078-46d8-84c8-8b8dd21db713}</Project>
+      <Name>DAL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

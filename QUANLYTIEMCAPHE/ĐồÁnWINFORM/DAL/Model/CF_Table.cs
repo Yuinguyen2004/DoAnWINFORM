@@ -9,10 +9,10 @@ namespace DAL.Model
     public partial class CF_Table
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public CF_Table()
-        {
-            Orders = new HashSet<Order>();
-        }
+        //public CF_Table()
+        //{
+            //Orders = new HashSet<Order>();
+        //}
 
         [Key]
         [StringLength(10)]
@@ -27,7 +27,7 @@ namespace DAL.Model
 
         public virtual Area Area { get; set; }
 
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Order> Orders { get; set; }
+        //[System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        //public virtual ICollection<Order> Orders { get; set; }
     }
 }

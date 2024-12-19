@@ -11,3 +11,16 @@ D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\DAL\obj\Debug\DAL.csproj.Core
 D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\DAL\obj\Debug\DAL.csproj.Up2Date
 D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\DAL\obj\Debug\DAL.dll
 D:\Project_WinForm\QUANLYTIEMCAPHE\ĐồÁnWINFORM\DAL\obj\Debug\DAL.pdb
+D:\Project_WinForm\DoAnWINFORM\DoAnWINFORM\QUANLYTIEMCAPHE\ĐồÁnWINFORM\DAL\bin\Debug\App.Config
+D:\Project_WinForm\DoAnWINFORM\DoAnWINFORM\QUANLYTIEMCAPHE\ĐồÁnWINFORM\DAL\bin\Debug\DAL.dll.config
+D:\Project_WinForm\DoAnWINFORM\DoAnWINFORM\QUANLYTIEMCAPHE\ĐồÁnWINFORM\DAL\bin\Debug\DAL.dll
+D:\Project_WinForm\DoAnWINFORM\DoAnWINFORM\QUANLYTIEMCAPHE\ĐồÁnWINFORM\DAL\bin\Debug\DAL.pdb
+D:\Project_WinForm\DoAnWINFORM\DoAnWINFORM\QUANLYTIEMCAPHE\ĐồÁnWINFORM\DAL\bin\Debug\EntityFramework.dll
+D:\Project_WinForm\DoAnWINFORM\DoAnWINFORM\QUANLYTIEMCAPHE\ĐồÁnWINFORM\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project_WinForm\DoAnWINFORM\DoAnWINFORM\QUANLYTIEMCAPHE\ĐồÁnWINFORM\DAL\bin\Debug\EntityFramework.xml
+D:\Project_WinForm\DoAnWINFORM\DoAnWINFORM\QUANLYTIEMCAPHE\ĐồÁnWINFORM\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project_WinForm\DoAnWINFORM\DoAnWINFORM\QUANLYTIEMCAPHE\ĐồÁnWINFORM\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Project_WinForm\DoAnWINFORM\DoAnWINFORM\QUANLYTIEMCAPHE\ĐồÁnWINFORM\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Project_WinForm\DoAnWINFORM\DoAnWINFORM\QUANLYTIEMCAPHE\ĐồÁnWINFORM\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Project_WinForm\DoAnWINFORM\DoAnWINFORM\QUANLYTIEMCAPHE\ĐồÁnWINFORM\DAL\obj\Debug\DAL.dll
+D:\Project_WinForm\DoAnWINFORM\DoAnWINFORM\QUANLYTIEMCAPHE\ĐồÁnWINFORM\DAL\obj\Debug\DAL.pdb

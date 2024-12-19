@@ -63,6 +63,7 @@ namespace GUI
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(655, 415);
             this.panel1.TabIndex = 0;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // txt_username
             // 
@@ -210,6 +211,9 @@ namespace GUI
             if (userBLL.Login(username, password))
             {
                 MessageBox.Show("Đăng nhập thành công!");
+                TableGUI productGUI = new TableGUI();
+                productGUI.ShowDialog();
+                this.Hide();
             }
             else
             {
@@ -223,6 +227,11 @@ namespace GUI
             {
                 e.Cancel = true;
             }
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
